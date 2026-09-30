@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Manavi Chandra 👋
 
-<!--
-**manavichandra/manavichandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Networks & Cybersecurity student at Thompson Rivers University
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Cybersecurity
+- Network Security
+- Ethical Hacking
+- IT & Network Troubleshooting
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+**Networking**
+Cisco Packet Tracer • Cisco IOS • TCP/IP • IPv4/IPv6
+VLANs • Routing • Switching • DHCP • DNS • VPN
+
+**Cybersecurity**
+Kali Linux • Wireshark • Nmap • Metasploit
+Burp Suite • Active Directory • Windows Server
+SIEM • Vulnerability Scanning • Penetration Testing
+
+**Programming**
+Python • Java • JavaScript • SQL • Bash • PowerShell
+
+### Featured Projects
+
+🔐 Automated Intrusion Detection and Response System
+
+🛡️ Pass-the-Hash Attack Detection
+
+🌐 Web Development Projects
+
+### Currently Learning
+
+- Network Security
+- Security Operations
+- Ethical Hacking
+- Incident Detection & Response
+
+📍 Kamloops, British Columbia, Canada
